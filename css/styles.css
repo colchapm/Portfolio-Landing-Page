@@ -1,0 +1,23 @@
+.simple {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+}
+
+.card-title {
+  font-family: snell roundhand, cursive;
+  text-align: center;
+  color: black;
+}
+
+.centered-image {
+  width: 30%;
+  margin: auto;
+  height: auto;
+  display: block;
+  mix-blend-mode: multiply;
+}
+
+.special-card {
+  opacity: 2.0;
+}
+
