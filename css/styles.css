@@ -21,3 +21,36 @@
   opacity: 2.0;
 }
 
+.supporting-header {
+  padding: 20px;
+  border: slateblue;
+  border-width: 20px;
+  background-color: thistle;
+  margin-bottom: 10px;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.supporting-image {
+  width: 40%;
+  margin: auto;
+  height: auto;
+  display: block;
+  float: left;
+}
+
+.my-class {
+  border: 20px blue;
+  padding: 10px;
+  background-color: cornsilk;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  font-family: monospace;
+  width: 60%;
+  display: block;
+
+}
