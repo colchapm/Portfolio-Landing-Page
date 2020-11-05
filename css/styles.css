@@ -35,7 +35,7 @@
 
 .supporting-image {
   width: 40%;
-  margin: auto;
+  margin: 10px;
   height: auto;
   display: block;
   float: left;
@@ -45,12 +45,32 @@
   border: 20px blue;
   padding: 10px;
   background-color: cornsilk;
-  margin: auto;
+  margin: 10px;
   margin-top: 20px;
   margin-bottom: 20px;
   box-sizing: border-box;
   font-family: monospace;
-  width: 60%;
   display: block;
+}
 
+.hobby-image {
+  width: 60%;
+  margin: 10px;
+  height: auto;
+  display: block;
+  float: left;
+}
+
+.hobby-class {
+  border: 20px blue;
+  padding: 10px;
+  background-color: cornsilk;
+  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  font-family: monospace;
+  display: block;
+  font-size: 20px;
+  list-style-position: inside;
 }
