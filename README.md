@@ -21,7 +21,7 @@ CSS
 
 ### Link
 
-https://github.com/colchapm/Portfolio-Landing-Page.git
+https://colchapm.github.io/Portfolio-Landing-Page/
 
 ### Legal
 
