@@ -16,7 +16,9 @@ Create the inital index.html page in HTML, style it using CSS, track and commit 
 ### Technologies Used
 
 HTML
+<br>
 Git
+<br>
 CSS
 
 ### Link
@@ -25,6 +27,6 @@ https://colchapm.github.io/Portfolio-Landing-Page/
 
 ### Legal
 
-Copyright (c) 2020 Collin Chapmana
+Copyright (c) 2020 Collin Chapman
 
 This software is licensed under the MIT license. 
